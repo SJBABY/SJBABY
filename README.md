@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJBABY
 - 👀 I’m interested in Designing, Programming 
-- 🌱 I’m currently learning Java, Animation on Blender and Designing 
+- 🌱 I’m currently learning Python-Django, Animation on Blender and Designing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sajjad.javeed21089778@gmail.com
 -                     9633420673
